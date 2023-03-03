@@ -337,77 +337,7 @@ color:black;}
             text-align: center;
             background-color: #f1f1f1;
           }
-        /* .cardi{
-            align-items:right;
-            text-align:center;
-        }
-        .card {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            max-width: 300px;
-            margin: auto;
-            text-align: center;
-            font-family: arial;
-          }
-          
-          .price {
-            color: grey;
-            font-size: 22px;
-            
-          }
-          .type{
-            color:#000;
-            font-size:30px;
-          }
-          
-          .card button {
-            border: none;
-            outline: 0;
-            padding: 12px;
-            color: white;
-            background-color: #000;
-            text-align: center;
-            cursor: pointer;
-            width: 100%;
-            font-size: 18px;
-          }
-          
-          .card button:hover {
-            opacity: 0.7;
-          }
-          .card2 {
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-            max-width: 300px;
-            margin: auto;
-            text-align: center;
-            font-family: arial;
-          }
-          
-          .price2 {
-            color: grey;
-            font-size: 22px;
-            
-          }
-          .type2{
-            color:#000;
-            font-size:30px;
-          }
-          
-          .card2 button {
-            border: none;
-            outline: 0;
-            padding: 12px;
-            color: white;
-            background-color: #000;
-            text-align: center;
-            cursor: pointer;
-            width: 100%;
-            font-size: 18px;
-          }
-          
-          .card2 button:hover {
-            opacity: 0.7;
-          }
-        */
+     
         .price {
             color: grey;
             font-size: 22px;
@@ -435,6 +365,7 @@ color:black;}
             padding:2rem;
         }
         .nav{
+          background-color:grey;
             position:absolute;
             top:100%;
             width:80%;
